@@ -1,2 +1,6 @@
 # reto-grupal04
+GRUPO FAENSE
+FABIAN ORTIZ
+ENRIQUE OSPINA
+SERGIO PALACIOS
 decimal a fraccionario
